@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natashaaasmi
 - 👀 I’m interested in natural language processing, web development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on OpenAI API
+- 💞️ I’m looking to collaborate o
 - 📫 How to reach me ...
 
 <!---
