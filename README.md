@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natashaaasmi
-- 👀 I’m interested in natural language processing, web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate o
+- 👀 I’m interested in
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
 <!---
